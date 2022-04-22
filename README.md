@@ -1,4 +1,4 @@
-# hands for Areesha 😁😁
+# hands
 ```
 rock = '''
     _______
